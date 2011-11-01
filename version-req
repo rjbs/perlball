@@ -1,0 +1,8 @@
+on point: rjbs
+
+summary:  Version::Requirements causes problems on case-sens fs; rename it
+
+questions:
+  - to what?
+  - find out how to do deprecation to remove old name in 5.18
+  - maybe merge into CPAN-Meta
