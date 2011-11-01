@@ -1,0 +1,8 @@
+on point: chip
+
+summary: do not forget whether an SV was originally str/num when coercing
+
+questions:
+  - will it break everything?
+  - canvass for technical objections
+  - does it solve the problems promised?  (What are they?)
