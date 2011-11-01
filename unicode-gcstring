@@ -1,0 +1,11 @@
+
+on point: Tom C.
+
+summary: Tom wants to add Unicode::GCString to core
+
+questions:
+  * is GCString mature enough?
+  * does it work on every platform?
+  * it is entirely license-compatible?
+  * how does the author feel about the idea?
+
