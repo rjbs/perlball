@@ -1,0 +1,6 @@
+on point: rjbs, doy
+
+questions:
+  - can we really make ~~ pluggable?  "the dynamic scope question"
+  - should we just deprecate it entirely?
+  - interaction's with chip's SV work
