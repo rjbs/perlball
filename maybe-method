@@ -1,0 +1,4 @@
+on point: ?
+
+summary:  $object?->method means ($object && $object->method)
+
