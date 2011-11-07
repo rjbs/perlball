@@ -4,3 +4,7 @@ questions:
   - can we really make ~~ pluggable?  "the dynamic scope question"
   - should we just deprecate it entirely?
   - interaction's with chip's SV work
+
+notes:
+  - talked with doy 2011-11-07, expect an email within week
+  - current feelings: ~~ can't be safely lexicalized
