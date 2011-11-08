@@ -1,0 +1,15 @@
+on point: rjbs, schubiger
+
+summary: |
+  10:34 >@Nicholas< rjbs: "someone" probably should ask Steven Schubiger what's 
+                  up with OpenBSD 5 and threads. And whether his MirBSD ever 
+                  worked
+  10:34 <@Nicholas> and "someone" doesn't need to be Nicholas or rjbs
+  10:35 <@rjbs> I didn't know anything was up!  I'll make a note.
+  10:35 <@Nicholas> it's sending smoke reports to perl5-porters
+  10:35 <@rjbs> Okay, must've not gotten to those yet.
+  10:35 <@Nicholas> which say FAIL
+  10:35 <@Nicholas> and they FAIL with a vertical column of Ms
+  10:36 <@rjbs> trying to review smokes in categorized batches
+  10:36 <@Nicholas> patterns of Ms usually mean something systematic
+
