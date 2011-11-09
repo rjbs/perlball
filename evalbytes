@@ -1,8 +1,0 @@
-on point: Father C
-
-summary: make eval clearly expect text strings and add evalbytes for bytes
-
-questions:
-  - what features.pm changes needed/wanted?
-  - change any default behavior?
-  - maybe get a smoke run?
