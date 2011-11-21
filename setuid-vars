@@ -1,0 +1,8 @@
+on point: rjbs
+
+summary:
+  it may be that assigning to the uid/gid vars is just way too hard to
+  do properly, and that we should tell people to just use POSIX; should we also
+  deprecate assignment to these vars?
+
+ticket: 104060
