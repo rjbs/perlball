@@ -1,0 +1,9 @@
+on point: rjbs
+
+summary:
+  Should we bump to 5.x.y+1 just *before* or just *after* a blead release?
+  Currently, we do before.  After might be better.
+
+threads:
+  - Message-Id: <84238853-317A-461E-8BA2-EAACB1B468C6@cpan.org>
+
