@@ -1,0 +1,3 @@
+on point: rjbs
+
+summary: defined(@arr) should warn in all cases; also @a//..., %h/...
