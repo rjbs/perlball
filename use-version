@@ -1,3 +1,10 @@
 on point: rjbs
 
 summary: what does "use 5.XX" mean, in the long run?
+
+agenda:
+  - I posted a message about this:
+  http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2011-11/msg01360.html
+
+  - I need to reply about legacy.pm v. feature.pm v. experimental.pm
+
