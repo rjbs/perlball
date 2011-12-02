@@ -1,3 +1,8 @@
 on point: rafl, marcg
 
 summary: merge in the GSO Pod::Simple/Pod::Parser work!
+
+agenda:
+  - [ DONE! ] merge the Pod::Html (etc) work to core
+  - Figure out the future of Pod::LaTeX
+  - get Pod::Usage rewritten to Pod::Parser
