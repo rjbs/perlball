@@ -1,0 +1,8 @@
+on point: khw, rjbs
+topic: khw has encountered a gnarly backrefs bug and it's blocking him
+agenda:
+  - the theory is that nobody is going to help much until after holidays
+  - karl is going to work on some other things for a while
+  - if nobody has great ideas when he's done with those, he will use a
+    workaround
+  - ...but we should try to fix / address the underlying issue
