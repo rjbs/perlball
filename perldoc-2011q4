@@ -1,3 +1,9 @@
 on point: bdfoy
 
 summary: fix outstanding bugs on pod-perldoc, get merged
+
+todo:
+  - merge either 3.15_latest or 3.16 into core
+  - rjbs told brian that he'd get the docs on updating dual-life stuff
+    written and into Porting
+  - rjbs asked rafl and BinGOs to write preliminary checklists
