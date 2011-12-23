@@ -3,6 +3,8 @@ on point: rafl, marcg
 summary: merge in the GSO Pod::Simple/Pod::Parser work!
 
 agenda:
-  - [ DONE! ] merge the Pod::Html (etc) work to core
-  - Figure out the future of Pod::LaTeX
+  - mark Pod::LaTeX deprecated when Pod::Parser is, to
   - get Pod::Usage rewritten to Pod::Parser
+  - get podchecker stuff all Parser-ified in core
+  - make sure MAREKR knows that Pod-Parser will be deprecated
+    ( rjbs emailed him -- rjbs, 2011-12-23)
