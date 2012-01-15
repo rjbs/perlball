@@ -1,0 +1,5 @@
+on point: rjbs
+
+agenda:
+- point INSTALL readers to perlgit if working from a git tree
+- add docs for cherrymaint
