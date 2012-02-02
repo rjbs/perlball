@@ -1,0 +1,7 @@
+on point: rjbs
+
+summary: dumpvars (X in debugger) should not abort on one failed dump
+
+agenda:
+- add a flag to tell dumpvars to emit a "could not dump" token rather than die
+- set that flag locally in debugger
