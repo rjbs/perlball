@@ -1,7 +1,0 @@
-on point: tomc, khw
-
-summary:  add a fc (use feature 'fc') and \F for folded case
-
-status:
-- brian f. has an implementation that will land soon
-- the problem of qr{\Ffoo\N{BAR}\E} is a problem, but not a blocker
