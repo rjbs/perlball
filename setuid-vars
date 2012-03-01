@@ -1,5 +1,8 @@
 on point: rjbs
 
+threads:
+- What should assignment to $< and $( do?
+
 summary:
   it may be that assigning to the uid/gid vars is just way too hard to
   do properly, and that we should tell people to just use POSIX; should we also
