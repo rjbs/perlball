@@ -3,6 +3,11 @@ on points: khw, tomc, brianf, leont?
 summary:
   the :utf8 input layer DTWT with malformed input and can be a security issue
 
+notes:
+  - <Nicholas> also audit CPAN (ie grep) to see how many other layers
+    take advantage of the "UTF-8 is a flag" design
+
+
 threads:
   - http://markmail.org/message/mul64puszxrkeply
 
