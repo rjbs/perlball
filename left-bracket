@@ -1,7 +1,0 @@
-on point: Father C
-
-questions:
-  - should $[ work without a "use Something" line in 5.16?
-  - should the above-mentioned Something be shipped in core?
-  - what should Something be?
-
