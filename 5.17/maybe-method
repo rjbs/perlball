@@ -4,7 +4,7 @@ threads:
   - http://markmail.org/thread/q3p5sr2is43wt3na
   - http://markmail.org/thread/outwmtg6h7lp57ra
 
-summary:  $object?->method means ($object && $object->method)
+summary:  $object?->method means (defined($object) && $object->method)
 
-status: discuss at 5.17.0
+status: brought back up on the list, 2012-05-24
 
