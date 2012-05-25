@@ -1,6 +1,0 @@
-on point: rjbs
-
-summary:  Version::Requirements causes problems on case-sens fs; rename it
-
-todo:
-  - remove in 5.17.0
