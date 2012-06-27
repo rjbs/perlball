@@ -1,0 +1,3 @@
+on point: ?
+
+topic: my $fn = "Foo\x{U+666}Bar"; open my $fh, '<', $fn;
