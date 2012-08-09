@@ -4,7 +4,11 @@ questions:
   - can we really make ~~ pluggable?  "the dynamic scope question"
   - should we just deprecate it entirely?
   - interaction's with chip's SV work
+  - can we possibly deal with num/str?  worried about chips work being "the
+    unicode bug" again
 
 notes:
   - talked with doy 2011-11-07, expect an email within week
   - current feelings: ~~ can't be safely lexicalized
+  - talked with Damian Conway at OSCON; was productive
+  - should post the results of our discussion soon -- rjbs, 2012-08-09
