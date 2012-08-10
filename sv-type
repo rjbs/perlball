@@ -3,6 +3,8 @@ on point: chip
 summary: do not forget whether an SV was originally str/num when coercing
 
 questions:
-  - will it break everything?
-  - canvass for technical objections
+  - how much do we want to advertise that this was done and has value for
+    end-users
+  - Aristotle warned that this could be "the unicode bug" again if people
+    think that the type data is reliable when it is only /often/ reliable
   - does it solve the problems promised?  (What are they?)
