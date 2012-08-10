@@ -1,6 +1,6 @@
 on point: rafl, marcg
 
-summary: merge in the GSO Pod::Simple/Pod::Parser work!
+summary: get Pod::Parser deprecated
 
 agenda:
   - mark Pod::LaTeX deprecated when Pod::Parser is, to
