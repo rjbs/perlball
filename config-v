@@ -1,0 +1,5 @@
+on point: rjbs, tux, nick
+
+agenda:
+- get Config::V into core
+- avoid running $^X when possible
