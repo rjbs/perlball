@@ -1,6 +1,0 @@
-on point: karl
-thread: RFC: use feature 'vt_space' to add VT to \s.
-agenda: do this in 5.17.0-ish
-status:
-- mailed list (esp. karl) for update -- rjbs, 2012-05-24
-
