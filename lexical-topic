@@ -1,9 +1,0 @@
-on point: rjbs
-
-summary:
-- given now creates a dynamic, not lexical $_
-- ... so do we want to keep having my $_?  it's almost always wrong
-- ... but less "always" when the user had to type "my $_"
-- ... but some report that new users head toward that because of
-      the suggestion that "my" is always right with variables
-- do we get a technical win out of removing it?
