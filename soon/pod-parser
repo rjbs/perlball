@@ -1,0 +1,11 @@
+on point: rafl, marcg, (khw is interested)
+last update: 2013-01-24
+
+summary: get Pod::Parser deprecated
+
+agenda:
+  - DONE: mark Pod::LaTeX deprecated when Pod::Parser is, to
+  - DONE make sure MAREKR knows that Pod-Parser will be deprecated
+    ( rjbs emailed him -- rjbs, 2011-12-23)
+  - get Pod::Usage rewritten to Pod::Parser
+  - get podchecker stuff all Parser-ified in core
