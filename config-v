@@ -3,3 +3,6 @@ on point: rjbs, tux, nick
 agenda:
 - get Config::V into core
 - avoid running $^X when possible
+
+updates:
+* emailed to ask for updates, -- rjbs, 2013-01-25
