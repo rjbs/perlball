@@ -1,5 +1,9 @@
 on point: rjbs
+last updated: 2013-01-27
 
 rt: 72710
 
 agenda: rewrite the summary of perl in perl.pod
+
+updates:
+* first pass at replacing the "new in perl 5" section -- rjbs, 2013-01-27
