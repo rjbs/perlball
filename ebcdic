@@ -8,9 +8,9 @@ agenda:
 * DONE: put out for help far and wide
 * before 5.18.0: obnoxious warning notice in for EBCDIC in Configure
   (require -DSAW_EBCDIC_WARNING?)
-* before 5.18.0: put notice in perl5180delta about EBCDIC's future
-* during 5.19.0: publish ebcdic policy
+* before 5.18.0: put notice in perl5180delta about EBCDIC's future,
+  publish ebcdic policy
 * IF EBCDIC NOT REPAIRED:
-  * before 5.20.0: make Configure refuse
-  * during 5.21.0: fair game on removing code branches
+  * before 5.19.0: make Configure refuse
+  * after  5.19.3: fair game on removing code branches
 
