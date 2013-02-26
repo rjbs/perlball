@@ -4,3 +4,4 @@ agenda: add 'sub foo ($x, $y)' to perl5
 
 updates:
   - peter is still at work on this, making good (seeming to rjbs) progress
+  - still -- rjbs, 2013-02-25
