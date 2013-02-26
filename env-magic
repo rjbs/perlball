@@ -1,6 +1,0 @@
-on point: rjbs
-
-topic: changed behavior of $ENV{X}=undef should be reverted
-
-updates:
-  - asked list for patch to undo this -- rjbs, 2013-02-15
