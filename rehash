@@ -3,3 +3,8 @@ on point: yves
 
 topic: redoing hash stuff
 
+next up:
+  - JSON-PP needs patch; may end up in core, since cpan is not responding
+  - EUMM too, same situation
+  - Yves needs to rebase, squish, edit, and push
+
