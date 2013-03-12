@@ -6,4 +6,6 @@ on point: rjbs
 
 updates:
 - https://rt.perl.org/rt3/Ticket/Display.html?id=113834
-- I suggest reverting f041cf0 to get the old bug back until both can be fixed
+- ✓ revert f041cf0 to get the old bug back until both can be fixed
+- NEXT: ensure that we have an RT for fixing both bugs at once
+- wait for a patch that fixes both
