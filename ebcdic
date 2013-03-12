@@ -8,7 +8,7 @@ updates:
 - john goodyear and khw are working on getting stuff going
 
 agenda:
-* DONE: put out for help far and wide
+* ✓ put out for help far and wide
 * before 5.18.0: obnoxious warning notice in for EBCDIC in Configure
   (require -DSAW_EBCDIC_WARNING?); made a task
 * before 5.18.0: put notice in perl5180delta about EBCDIC's future,
