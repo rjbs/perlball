@@ -15,5 +15,5 @@ when the reference is destroyed!"  Yeah, they close, and the error status is
 lost forever, like tears in rain.
 
 We should issue a warning when an implicit close results in error.  autodie.pm
-can then fatalize that warning.  I think the -i switch should probably also
-fatalize the warning.
+can then fatalize that warning.  We should also fatalize errors on the implicit
+close of the selected fh at END, to deal with errors during -i, for example.
