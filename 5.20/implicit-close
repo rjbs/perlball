@@ -1,0 +1,19 @@
+
+This is one of the things I would most like to see addressed in the next stable
+release of perl.  We've got a five year old ticket about it.  I will decline to
+speculate what that says about it getting done:
+
+  https://rt.perl.org/rt3/Ticket/Display.html?id=57512
+
+Tom's description there is, to nobody's surprise, thorough and on point.
+
+Basically:  autovivified filehandles in lexical variables feel a *lot* easier
+to use, and avoid package variables, which we try to discourage elsewhere for
+various reasons.  The problem is that the list of reasons to use them sometimes
+includes, "and you don't have to account for closing them, because they close
+when the reference is destroyed!"  Yeah, they close, and the error status is
+lost forever, like tears in rain.
+
+We should issue a warning when an implicit close results in error.  autodie.pm
+can then fatalize that warning.  I think the -i switch should probably also
+fatalize the warning.
