@@ -7,6 +7,7 @@ notes:
   - <Nicholas> also audit CPAN (ie grep) to see how many other layers
     take advantage of the "UTF-8 is a flag" design
   - leont and chansen have been working on this, -- rjbs, 2012-05-24
+  - leont hopes to get back to this soon, -- rjbs, 2013-06-11
 
 threads:
   - http://markmail.org/message/mul64puszxrkeply
