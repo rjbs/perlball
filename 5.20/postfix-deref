@@ -40,6 +40,23 @@ might dereference, creating a construct that is clearly syntactically an array
 
   print $delivery->{email}->body_string_ref->$*;
 
+If we want the two forms to be really of equivalent value, we'll also need to
+be concerned with:
+
+  print "Things: $aref_of_things->@*"
+
+...which gets into less clearly-introduceable behavior.
+
+Finally, do we need to enable postfix slices?  I think that if we can, we
+should.  I think the syntax is free.
+
+  say for $href->{aref}->@[ 0, 2, 4 ];
+
+  say for $aref->[ $h_idx ]->@{ qw(foo bar baz) };
+
 I think we have a few options for the specific tokens to put after that last
 arrow.  I think $* and @* and so on work well.  Replacing the splat with a
 colon has been suggested as well.  The point here is to provide the feature.
+It's not about reducing total punctuation.  This is Perl, and we must embrace
+our punctuation!  It's about simplifying the reading of code by allowing it to
+be read and written linearly.
