@@ -11,6 +11,8 @@
 * jv: [a working SUPER](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00809.html)
 * drhyde: [lchown](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00945.html)
 * rjbs: [method call overload](http://markmail.org/message/3wwf7pra3whfks5n)
+* aristotle: [extended strict refs](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg01237.html)
+* jv: [matching balanced strings](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-02/msg00338.html)
 
 # Pending
 
@@ -24,5 +26,3 @@
 * schwern: [method declaration](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00459.html)
 * aristotle: [length undef => undef](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00510.html)
 * schwern: [y2038](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg01013.html)
-* aristotle: [extended strict refs](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg01237.html)
-* jv: [matching balanced strings](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-02/msg00338.html)
