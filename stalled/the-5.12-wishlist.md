@@ -10,6 +10,7 @@
 * yuval: [tail calls for methods](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00700.html)
 * jv: [a working SUPER](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00809.html)
 * drhyde: [lchown](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00945.html)
+* rjbs: [method call overload](http://markmail.org/message/3wwf7pra3whfks5n)
 
 # Pending
 
