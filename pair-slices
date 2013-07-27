@@ -1,0 +1,2 @@
+
+my %pairs = %hash{ qw(a b c) };
