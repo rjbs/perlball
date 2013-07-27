@@ -1,4 +1,10 @@
 
+topic: add $x->@*
+status: sprout made a branch
+
+needs tests, at least
+
+__END__
 Perl 5's references are awesome, but sometimes dereferencing them is not.  We
 end up switching between postfix and circumfix syntax to dereference
 structures.
