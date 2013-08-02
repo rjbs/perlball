@@ -1,2 +1,4 @@
 
 my %pairs = %hash{ qw(a b c) };
+
+- emailed ruz to ask for update -- rjbs, 2013-08-01
