@@ -6,6 +6,9 @@ summary: ebcdic is probably broken; IBM was approached, but did not offer
 
 updates:
 - john goodyear and khw are working on getting stuff going
+- things seem to have stalled a while ago; asked Karl for update today
+  -- rjbs, 2013-08-01
+
 
 agenda:
 * ✓ put out for help far and wide
