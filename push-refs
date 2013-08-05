@@ -3,3 +3,6 @@ on point: rjbs, sprout
 threads:
   - http://www.nntp.perl.org/group/perl.perl5.porters/2011/06/msg173698.html
 
+todo:
+  - consider warning?
+  - get acceptance criteria ticket like other exp. features need
