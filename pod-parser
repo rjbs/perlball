@@ -12,3 +12,10 @@ agenda:
   - get Pod::Checker rewrite clearly working again
     ( likely to do this at QAH :'( )
   - get podchecker stuff all Parser-ified in core
+
+updates:
+  - filed https://rt.cpan.org/Ticket/Display.html?id=85442 in May 2013
+  - asked for update, Jun 27, 2013
+  - emailed MAREKR for update, Aug 9, 2013
+    <20130810021401.GA14045@cancer.codesimply.com>
+
