@@ -1,8 +1,9 @@
 
 topic: add $x->@*
-status: sprout made a branch
+status: sprout made a branch; needs tests, at least
 
-needs tests, at least
+updates:
+  - sent "what's next" email to p5p -- rjbs, 2013-08-09
 
 __END__
 Perl 5's references are awesome, but sometimes dereferencing them is not.  We
