@@ -7,9 +7,9 @@ agenda:
   - DONE: mark Pod::LaTeX deprecated when Pod::Parser is, to
   - DONE make sure MAREKR knows that Pod-Parser will be deprecated
     ( rjbs emailed him -- rjbs, 2011-12-23)
-  - DONE: get Pod::Usage rewritten to Pod::Parser
+  - DONE: get Pod::Usage rewritten to never use Pod::Parser
     ( filed https://rt.cpan.org/Ticket/Display.html?id=84031 )
-  - get Pod::Checker rewrite clearly working again
+  - DONE: get Pod::Checker rewrite clearly working again
     ( likely to do this at QAH :'( )
   - get podchecker stuff all Parser-ified in core
 
