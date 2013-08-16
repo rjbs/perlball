@@ -2,15 +2,14 @@ agenda: get perlexperiment cleaned up
 
 ticket: https://rt.perl.org/rt3/Ticket/Display.html?id=116473
 
-- trying to get jerry to reply about "our :unique"
 - answer on :win32 still unclear
-- installhtml!
 - unicode on ebcdic?
-- "internal API for %^H"
 
 - need to make acceptance criteria tickets for:
-  - smartmatch
-  - lexical topic?
+  - "our :unique" [DONE]
+  - smartmatch [DONE]
+  - installhtml! [DONE]
+  - lexical topic? [DONE]
   - autoderef
   - pluggable keywords
   - lexical subroutines
