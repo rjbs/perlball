@@ -1,5 +1,7 @@
 on point: rjbs, doy
 
+- https://rt.perl.org/rt3/Ticket/Display.html?id=119317
+
 questions:
   - can we really make ~~ pluggable?  "the dynamic scope question"
   - should we just deprecate it entirely?
