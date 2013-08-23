@@ -1,3 +1,10 @@
 on point: yves?
 
 summary: the behavior of \Q \L \E \l \e etc are INSANE
+
+thread:
+  - http://www.nntp.perl.org/group/perl.perl5.porters/2012/01/msg181429.html
+
+updates:
+  - asked p5p whether I should just stop tracking this
+    Message-ID: <20130823020255.GA13803@cancer.codesimply.com>
