@@ -6,3 +6,6 @@ threads:
 todo:
   - consider warning?
   - get acceptance criteria ticket like other exp. features need
+
+updates:
+  - added [perl #119437]
