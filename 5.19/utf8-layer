@@ -1,13 +1,15 @@
 on points: khw, tomc, brianf, leont?
 
 summary:
-  the :utf8 input layer DTWT with malformed input and can be a security issue
+  - the :utf8 input layer DTWT with malformed input and can be a security issue
+  - https://rt.perl.org/rt3/Ticket/Display.html?id=100058
 
-notes:
+updates:
   - <Nicholas> also audit CPAN (ie grep) to see how many other layers
     take advantage of the "UTF-8 is a flag" design
   - leont and chansen have been working on this, -- rjbs, 2012-05-24
   - leont hopes to get back to this soon, -- rjbs, 2013-06-11
+  - asked for public update on RT, -- rjbs, 2013-08-25
 
 threads:
   - http://markmail.org/message/mul64puszxrkeply
