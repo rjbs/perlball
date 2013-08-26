@@ -16,3 +16,5 @@ my %pairs = %hash{ qw(a b c) };
     slices. I suspect bugs in this part.
   * more corner case tests is always good
 
+- ruz got some info from sprout about how to distinguish two contexts they
+  wanted to be able to distinguish -- rjbs, 2013-08-25
