@@ -2,3 +2,4 @@ topic: deprecate literal control chars in var names in source
 thread: http://markmail.org/message/7zvlmra2y4r3d2hv
 
 - everyone who posted agrees, but there's no patch
+- https://rt.perl.org/rt3/Ticket/Display.html?id=119123
