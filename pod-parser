@@ -1,5 +1,4 @@
 on point: rafl, marcg, (khw is interested)
-last update: 2013-01-24
 
 summary: get Pod::Parser deprecated
 
@@ -18,4 +17,4 @@ updates:
   - asked for update, Jun 27, 2013
   - emailed MAREKR for update, Aug 9, 2013
     <20130810021401.GA14045@cancer.codesimply.com>
-
+  - plan B: new code in core, eject Checker :( -- rjbs, 2013-09-02
