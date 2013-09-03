@@ -26,3 +26,8 @@
 * schwern: [method declaration](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00459.html)
 * aristotle: [length undef => undef](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00510.html)
 * schwern: [y2038](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg01013.html)
+
+
+### notes
+
+* made RTM task to point list at this, due sep 16
