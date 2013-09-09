@@ -3,3 +3,4 @@ topic: replace "use base" in core modules with "use parent"
 - talked to a few potential volunteers
 - bowtie filed a number of bugs to update ./dist
 - next up, lib and ext?
+- made a branch for those -- rjbs, 2013-09-08
