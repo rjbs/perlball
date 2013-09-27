@@ -7,6 +7,7 @@ updates:
   - david nicol has been working on tests -- rjbs, 2013-08-12
   - yes, feature, yes experimental -- rjbs, 2013-08-30
   - rjbs needs to write docs
+  - rjbs wrote prelim docs -- rjbs, 2013-09-26
 
 __END__
 Perl 5's references are awesome, but sometimes dereferencing them is not.  We
