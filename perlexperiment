@@ -10,7 +10,7 @@ ticket: https://rt.perl.org/rt3/Ticket/Display.html?id=116473
   - smartmatch [DONE]
   - installhtml! [DONE]
   - lexical topic? [DONE]
-  - autoderef
-  - pluggable keywords
-  - lexical subroutines
-  - extended regex char classes
+  - autoderef [DONE]
+  - pluggable keywords [DONE]
+  - lexical subroutines [DONE]
+  - extended regex char classes [DONE]
