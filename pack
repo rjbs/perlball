@@ -3,3 +3,4 @@ topic: are the semantics for pack/unpack on octets/chars broken?  (yes)
 thread:
   - <CANgJU+UU-pLJ7HmtQ0Cq96kySg+FeNRb+_v7oqKRyVrQ+u696Q@mail.gmail.com>
   - How on earth did we manage to break pack() so badly?
+  - I followed up today -- rjbs, 2013-10-16
