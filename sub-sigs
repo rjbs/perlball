@@ -5,3 +5,5 @@ agenda: add 'sub foo ($x, $y)' to perl5
 updates:
   - peter is still at work on this, making good (seeming to rjbs) progress
   - still -- rjbs, 2013-02-25
+  - the prototype attributes are applied -- rjbs, 2013-10-19
+  - peter is coming by next week to discuss future things -- rjbs, 2013-10-19
