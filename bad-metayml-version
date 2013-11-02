@@ -1,0 +1,6 @@
+on point: rjbs
+ticket: https://rt.perl.org/Ticket/Display.html?id=119879#txn-1265557
+topic: CPAN bugfix correctly treats "requires perl 5.6" as "perl 5.600.000"
+
+
+
