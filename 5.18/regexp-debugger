@@ -1,0 +1,4 @@
+- 5.18.0 broke Regexp::Debugger
+- fixes were put in place to ameliorate the breakage
+- but one of them broke other code
+- is there any possible action?
