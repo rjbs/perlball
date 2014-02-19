@@ -1,0 +1,4 @@
+- v-string versions are insane
+- why do we remember and enshrine the original literal form of vstr?
+- why isn't a version comparison just $v1 cmp $v2?
+- if we make it make sense, what breaks?
