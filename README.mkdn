@@ -11,3 +11,10 @@ Each file is one ball in the air.
 
 Sometimes I track stuff at [my p5p list on Remember the
 Milk](https://www.rememberthemilk.com/home/rjbs/21878244/).
+
+## rt.perl.org meta tickets
+
+* [5.18.3 blockers](https://rt.perl.org/Ticket/Display.html?id=120976)
+* [5.20.0 blockers](https://rt.perl.org/Ticket/Display.html?id=116923)
+* [5.21.1 blockers](https://rt.perl.org/Ticket/Display.html?id=121332)
+* [5.22.0 blockers](https://rt.perl.org/Ticket/Display.html?id=121224)
