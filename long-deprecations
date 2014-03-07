@@ -1,0 +1,20 @@
+FROM:
+
+    Date: Wed, 3 Jul 2013 14:03:09 +0000 (UTC)
+    From: Ed Avis <eda@waniasset.com>
+    To: perl5-porters@perl.org
+    Subject: Things that have been deprecated for a long time
+
+my $x if 0;                 # since 5.9.1
+defined(@x) and defined(%h) # since 5.6.1 or earlier
+sub foo {} do foo(1,2)      # since 5.10 or earlier
+chdir('')                   # since 5.10 or earlier
+%h->{a} and @a->[5]         # since 5.7.2; code committed 2001-05-08
+?PATTERN?                   # since 5.10 or earlier
+$[ = 5;                     # since 5.10 or earlier
+dump                        # since 5.8
+Unrecognized escape \8      # since 5.8
+sub foo (@bar) {}           # since 5.8
+::DESTROY                   # code committed 2002-03-16
+use UNIVERSAL;              # since 5.004_02
+
