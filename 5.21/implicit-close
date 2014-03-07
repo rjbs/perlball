@@ -1,4 +1,10 @@
 
+--- "You can see a first stab at that in the sprout/destroio branch."
+    Date: 3 Jul 2013 16:06:32 -0000
+    From: Father Chrysostomos <sprout@cpan.org>
+    To: perl5-porters@perl.org
+    Subject: Re: perl needs safer implicit close
+
 This is one of the things I would most like to see addressed in the next stable
 release of perl.  We've got a five year old ticket about it.  I will decline to
 speculate what that says about it getting done:
