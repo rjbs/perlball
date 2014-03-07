@@ -5,6 +5,12 @@
     To: perl5-porters@perl.org
     Subject: Re: perl needs safer implicit close
 
+    Date: Thu, 04 Jul 2013 18:03:01 -0700
+    Subject: [perl #57512] Implicit close()s are silently unchecked for error
+    From: Father Chrysostomos via RT <perlbug-followup@perl.org>
+    Reply-To: perlbug-followup@perl.org
+
+
 This is one of the things I would most like to see addressed in the next stable
 release of perl.  We've got a five year old ticket about it.  I will decline to
 speculate what that says about it getting done:
