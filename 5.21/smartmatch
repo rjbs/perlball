@@ -1,5 +1,11 @@
 on point: rjbs, doy
 
+See also: |
+  Date: Sat, 17 Aug 2013 23:41:00 -0700
+  From: Father Chrysostomos via RT <perlbug-followup@perl.org>
+  Subject: [perl #119317] [EXPERIMENT] smartmatch and given/when
+  Message-ID: <rt-3.6.HEAD-2552-1376808059-702.119317-15-0@perl.org>
+
 - https://rt.perl.org/rt3/Ticket/Display.html?id=119317
 
 questions:
