@@ -29,7 +29,7 @@ Platforms we assume dead:
 * OS/390, OS/400
 * Plan 9
 * QNX
-* RiscOS
+* RISC OS
 * Symbian
 * Synology
 * Tru64
