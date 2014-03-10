@@ -1,0 +1,35 @@
+# Platform Checklist
+
+These are the platforms I expect to get "ok" results from before a stable
+release.  This is an oversimplification, as some vary by compiler, and there
+are other variants to consider.
+
+* AIX
+* Android
+* Cygwin
+* FreeBSD, NetBSD, OpenBSD
+* HPUX
+* Haiku
+* Hurd
+* Irix
+* Linux
+* Mac OS X
+* MSWin32
+* Solaris
+* VMS
+* VOS
+* WinCE
+
+Platforms we assume dead:
+
+* AmigaOS
+* DJGPP
+* NetWare
+* OS/2
+* OS/390, OS/400
+* Plan 9
+* QNX
+* RiscOS
+* Symbian
+* Synology
+* Tru64
