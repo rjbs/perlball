@@ -26,6 +26,7 @@ Platforms we assume dead:
 * DJGPP
 * NetWare
 * Irix
+* Lynx RTOS
 * OS/2
 * OS/390, OS/400
 * Plan 9
