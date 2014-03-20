@@ -2,3 +2,6 @@
 - why do we remember and enshrine the original literal form of vstr?
 - why isn't a version comparison just $v1 cmp $v2?
 - if we make it make sense, what breaks?
+
+- had a long talk with ether/haarg/ribasushi/xdg/leont at QAH
+  hopefully notes published in the next month
