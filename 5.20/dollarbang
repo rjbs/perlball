@@ -1,2 +1,4 @@
 - what's the deal with $! and locales?
 - it is a huge stinking mess
+
+- likely plan: revert for 5.20, change harder for 5.22
