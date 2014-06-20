@@ -1,1 +1,5 @@
 topic: what's the fate of encoding.pm?
+
+- figure out what can replace it?  can we really say "no more coding perl in
+  big5?"
+- send a lot of emails
