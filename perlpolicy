@@ -1,3 +1,10 @@
 topic: update perlpolicy to reflect reality, and reality to reflect perlpolicy
 
 - http://www.nntp.perl.org/group/perl.perl5.porters/2014/06/msg216280.html
+- specific points to clear up:
+  - when is lexical scope (a la 'feature') required?
+  - when do we break backcompat (since "serious harm" is bogus)
+    - can we remove things just because they're stupid?
+  - why can we deprecate things?
+  - what about new warnings?
+  - how does this apply to the XS API?
