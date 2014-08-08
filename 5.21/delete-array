@@ -1,0 +1,1 @@
+- we need to issue deprecation warnings on delete $a[0] and exists $a[0]
