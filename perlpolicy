@@ -8,3 +8,130 @@ topic: update perlpolicy to reflect reality, and reality to reflect perlpolicy
   - why can we deprecate things?
   - what about new warnings?
   - how does this apply to the XS API?
+- posted on this, 2014-09-15
+...
+---
+from: http://markmail.org/download.xqy?id=tvtqtdyqkrdll6xh&number=1
+body: |
+  =head1 BACKWARD COMPATIBILITY AND DEPRECATION
+
+  Historically, this section described the very strict backwards
+  compatibility policy used for maintaining Perl. This policy was strict to
+  the point where even unintended bugs had to be cared for in the same way
+  as documented features.
+
+  This policy is no longer in effect, as the Perl 5 Porters feel that it was
+  not useful anymore. The following is a condensed summary of what Perl 5
+  Porters had to say on how they will maintain Perl, and thus is expected
+  to reflect the state of thinking on this when this policy was written.
+
+  This policy only applies to major version releases, for minor patch
+  releases, the standards are still much higher.
+
+  While backwards compatibility is still an important goal and should be
+  kept unless there are overriding reasons, the bar for changes is low
+  enough to give the Perl maintainers freedom to implement the changes they
+  need.
+
+  CPAN authors need to expect incompatibilities and have to deal with
+  them in new major releases themselves. The Perl 5 maintainers are not
+  expected to monitor CPAN, or keep older modules working. A module author
+  is expected to be active enough to keep up with the release cycle. This
+  is notwithstanding the fact that some people actively do monitor CPAN for
+  breakage before release and make major efforts to help upgrade at least
+  the more popular modules.
+
+  This applies to other Perl users, but since nobody is forced to upgrade
+  unless they want security support, so the importance for private modules
+  and scripts is reduced, and obviously nobody can monitor code for breakage
+  that they don't even know exists
+
+  In many cases, backwards (and bug) compatibility, isn't achievable or
+  reasonable. For example, reported security problems need to be fixed with
+  priority, and it is better to have a bad patch that breaks some features
+  then wait for a better patch and have the problem persist.
+
+  There are many more cases where backwards compatibility isn't
+  required. For Perl maintainers, any of the following considerations can
+  weigh stronger than backwards compatibility:
+
+  =over 4
+
+  =item a feature is only rarely used on CPAN
+
+  If a change simplifies maintenance, and the corresponding feature is
+  only rarely used, you can consider the impact to be low enough for
+  compatibility to not matter (certainly, 10 broken modules on CPAN isn't
+  worth the effort if the required change is small).
+
+  =item the change is easy to work around
+
+  If a Perl change only requires a small effort when updating existing code,
+  backwards compatibility should not be a concern.
+
+  =item code breaks because of a new warning in an existing category
+
+  Warnings and deprecations are not even considered to be part of any
+  backwards compatibility policy. If a change merely deprecates a feature,
+  or introduces a new warning, there is no need to consider possible
+  implications.
+
+  =item a feature is incompatible with a published third party standard
+
+  It is better to ensure compatibility then have a potential
+  incompatibility. The bar is not very high here, if you think a 3rd party
+  standard disagrees with Perl, fix Perl.
+
+  =item the change only affects XS code
+
+  XS has has never been part of the Perl language, and has never been
+  covered by any backwards compatibility policy. If a change makes sense
+  (improves speed or clarity for example), then it should be fine.
+
+  This includes documented interface which subtly change semantics - perlapi
+  is only a guideline, and old code written before it existed is not worthy
+  of preservation.
+
+  =item a feature is an ugly thing of the past
+
+  Perl is full of features that were thought to be useful in the 1980s, but
+  don't hold up to modern scrutiny or development standards. If a feature
+  is particularly ugly, doesn't make sense or should have never been in
+  the language in the first place, and removing or changing it improves
+  maintenance, backwards compatibility is not relevant.
+
+  =item code breaks that saw it coming
+
+  If a programmer used documented syntax in a weird way, or tried to exploit
+  the darker corners of the language, it's not up to the Perl 5 maintainers
+  to keep her code working. Perl users are expected to write reasonable
+  code, and, failing that, to keep it updated. It is not the job of the Perl
+  5 maintainers to keep exotic features working.
+
+  =item breakage is caused by a patch that adds new functionality
+
+  New functionality trumps backwards compatibility. While gratuitously
+  breaking code is still unacceptable, nobody can be forced to fix patches
+  that accidentally break things.
+
+  =back
+
+  A partial reason for this new policy is lack of volunteers - while there
+  are enough volunteers to add interesting features to the language, there
+  are simply too few that can invest time into lengthy investigations of
+  compatibility issues. Help is always appreciated, and without doubt,
+  backwards compatibility can be improved by having more volunteers that can
+  clean up problems that were accidentally introduced.
+
+  Again, due to the volunteer nature of Perl development, this policy is
+  only a guideline. Nobody should be kept from subjecting himself to higher
+  standards.
+
+  Specifically, the pumpkin can impose higher standards for a release,
+  especially if a lot, say, 20 or more, of CPAN distributions are affected.
+
+  This policy was written by summarising the publicly stated positions of
+  the following people: Zefram, Aristotle Pagaltzis, Eric Brine, George
+  Greer, Ricardo Signes, Brad Gilbert, Dagfinn Ilmari Mannsåker, H.Merijn
+  Brand and Karl Williamson, in no particular order.
+
