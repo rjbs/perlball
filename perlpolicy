@@ -9,6 +9,7 @@ topic: update perlpolicy to reflect reality, and reality to reflect perlpolicy
   - what about new warnings?
   - how does this apply to the XS API?
 - posted on this, 2014-09-15
+- just need to turn that thread into a small patch :-/
 ...
 ---
 from: http://markmail.org/download.xqy?id=tvtqtdyqkrdll6xh&number=1
