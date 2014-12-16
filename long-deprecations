@@ -8,7 +8,6 @@ FROM:
 my $x if 0;                 # since 5.9.1
 chdir('')                   # since 5.10 or earlier
 $[ = 5;                     # since 5.10 or earlier
-dump                        # since 5.8
 Unrecognized escape \8      # since 5.8
 sub foo (@bar) {}           # since 5.8
 ::DESTROY                   # code committed 2002-03-16
