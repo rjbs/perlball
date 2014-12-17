@@ -10,6 +10,7 @@ topic: update perlpolicy to reflect reality, and reality to reflect perlpolicy
   - how does this apply to the XS API?
 - posted on this, 2014-09-15
 - just need to turn that thread into a small patch :-/
+- a8cc0197917675fd8fb84a927d24b6be2642e642
 ...
 ---
 from: http://markmail.org/download.xqy?id=tvtqtdyqkrdll6xh&number=1
