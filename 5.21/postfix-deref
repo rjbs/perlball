@@ -9,7 +9,7 @@ updates:
   - rjbs needs to write docs
   - rjbs wrote prelim docs -- rjbs, 2013-09-26
   - need to set up the "rules for becoming non-experimental"
-
+  - done; by these rules, postfix deref is up for stable status in 5.24
 
 __END__
 Perl 5's references are awesome, but sometimes dereferencing them is not.  We
