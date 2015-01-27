@@ -1,0 +1,4 @@
+- what's the deal with adding new non-default warnings
+- lots of changes/discussion
+- tentatively plan: "use warnings;" now means "use warnings 'default'"
+
