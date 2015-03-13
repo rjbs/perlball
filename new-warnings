@@ -1,4 +1,7 @@
 - what's the deal with adding new non-default warnings
 - lots of changes/discussion
 - tentatively plan: "use warnings;" now means "use warnings 'default'"
-
+- and "no warnings;" should mean "no warnings 'all';"
+  ...because when you say "no more sandwiches" you don't just mean the ones
+  on the normal menu, you mean the custom ones you asked for too
+- can we apply this to strictures as well?
