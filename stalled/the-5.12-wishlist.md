@@ -16,7 +16,7 @@
 
 # Pending
 
-* schwern: [named parameters](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00458.html)
+...
 
 # Implemented
 
@@ -26,6 +26,7 @@
 * schwern: [method declaration](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00459.html)
 * aristotle: [length undef => undef](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00510.html)
 * schwern: [y2038](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg01013.html)
+* schwern: [parameter lists](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00458.html)
 
 
 ### notes
