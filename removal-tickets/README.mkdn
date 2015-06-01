@@ -1,4 +1,0 @@
-# Removal Tickets?
-
-These are notes on tickets needed to be sent / etc. for CPAN code that has been
-broken by the enforcement of longstanding deprecations.

@@ -1,3 +1,0 @@
-- https://rt.perl.org/Ticket/Display.html?id=122136
-- we can easily grep for "defined(@" and "defined(%" and should do so
-- and did so

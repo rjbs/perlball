@@ -1,3 +1,0 @@
-- https://rt.perl.org/Ticket/Display.html?id=122139
-- I sent tickets to any occurance of @\w+->[ and similarly for %\w+->{
-- we subsequently saw something like @{...}->[...]; can we grep for that?
