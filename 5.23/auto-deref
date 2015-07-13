@@ -9,6 +9,7 @@ todo:
   - what about the weirdness of (each @array[1,2]) and (each %hash{1,2})
   - there's a warning for experimental::autoderef
   - tentative in-my-head proposal: when postderef becomes stable, we deprecate
+  - patch for removal smoked, to merge
 
 updates:
   - added [perl #119437]
