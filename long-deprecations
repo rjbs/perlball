@@ -7,6 +7,5 @@ FROM:
 
 my $x if 0;                 # since 5.9.1
 $[ = 5;                     # since 5.10 or earlier
-Unrecognized escape \8      # since 5.8
 ::DESTROY                   # code committed 2002-03-16
 
