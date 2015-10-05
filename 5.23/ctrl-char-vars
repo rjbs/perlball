@@ -1,9 +1,0 @@
-topic: deprecate literal control chars in var names in source
-thread: http://markmail.org/message/7zvlmra2y4r3d2hv
-
-- everyone who posted agrees, but there's no patch
-- https://rt.perl.org/rt3/Ticket/Display.html?id=119123
-- I hassled Brian F. on IRC and he sprang into action.  Patches now in code
-  review.
-- Hassled again.  He will apply soon.
-- deprecated in 5.19.4!!
