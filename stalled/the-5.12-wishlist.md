@@ -2,7 +2,6 @@
 # Still Unimplemented
 
 * rjbs: [exceptions!](http://markmail.org/message/2ecxjq3lxjy5huv5)
-* ovid: [cleaned up deref](http://markmail.org/message/3qdscz6pqpm6yuuq)
 * rjbs: [anonymous packages](http://markmail.org/message/6zojjasfgd55njno)
 * rjbs: [am I a method call?](http://markmail.org/message/ei6qq3sh5jm6gp3n)
 * acme: [integrated BigRat/BigInt](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00602.html)
@@ -27,6 +26,7 @@
 * aristotle: [length undef => undef](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00510.html)
 * schwern: [y2038](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg01013.html)
 * schwern: [parameter lists](http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2008-01/msg00458.html)
+* ovid: [cleaned up deref](http://markmail.org/message/3qdscz6pqpm6yuuq) -- implemented as postfix deref
 
 
 ### notes
