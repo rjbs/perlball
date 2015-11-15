@@ -3,3 +3,4 @@ topic: what's the fate of encoding.pm?
 - figure out what can replace it?  can we really say "no more coding perl in
   big5?"
 - send a lot of emails
+- posted an RFC - http://nntp.perl.org/group/perl.perl5.porters/232608
